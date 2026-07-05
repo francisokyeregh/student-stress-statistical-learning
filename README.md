@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/sridevilavanyacse/student-lifestyle-and-stress-p
 
 ## Software
 
-- R (Version 4.5 or later)
+- R (Version 4.5)
 - glmnet
 - caret
 - ranger
