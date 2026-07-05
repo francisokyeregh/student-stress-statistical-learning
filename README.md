@@ -7,7 +7,7 @@ This repository contains the R code, figures, tables, and supplementary material
 ## Authors
 
 Francis Okyere
-
+PhD Student
 Department of Statistics  
 Florida State University  
 Tallahassee, FL, USA
